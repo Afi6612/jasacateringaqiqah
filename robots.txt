@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://afi6612.github.io/jasacateringaqiqah/sitemap.xml
